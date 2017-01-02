@@ -1,0 +1,4 @@
+# Mac meta
+.DS_Store
+# Linker files
+Server/*.o
