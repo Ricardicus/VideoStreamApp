@@ -4,6 +4,6 @@ Making a video streaming service from an AXIS IP camera product
 to a portable and super najs Java UI. 
  
 This project was made by the following contributors:
-* Rickard Hallerbäck (Ricardicus)
+* Rickard Hallerbäck (https://github.com/Ricardicus)
 * Erik Wilstermann (https://github.com/WilseErik)
 * Jan Svensson (https://github.com/iSadist)
