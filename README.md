@@ -5,5 +5,5 @@ to a portable and super najs Java UI.
  
 This project was made by the following contributors:
 * Rickard Hallerbäck (Ricardicus)
-* Erik Wilstermann (WilseErik)
-* Jan Svensson
+* Erik Wilstermann (https://github.com/WilseErik)
+* Jan Svensson (https://github.com/iSadist)
